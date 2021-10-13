@@ -1,2 +1,2 @@
 # studentapplication
-student repo
+student repo for git commands demonstration
